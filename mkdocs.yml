@@ -1,16 +1,16 @@
-site_name: Terraform Learn
-site_description: Terraform Learn
-site_url: https://moabukar.github.io/terraform-learn/
+site_name: Learn <Tool>
+site_description: Learn <>
+site_url: https://moabukar.github.io/docs-template/ # Change this to your repo name
 site_author: Mo Abukar
 
-repo_url: https://github.com/moabukar/terraform-learn/
+repo_url: https://github.com/moabukar/docs-template/ # Change this to your repo name
 dev_addr: "127.0.0.1:8000"
 docs_dir: docs
 theme: 
   # name: material
   # name: dracula
   # name: gitbook
-  name: dracula
+  name: dracula ## Change theme to what you want (examples above)
   include_sidebar: true
   # custom_dir: overrides
   extra_css:
@@ -75,17 +75,11 @@ markdown_extensions:
   # - toc:
   #     permalink: true
 
+## Update your navigation here
 nav:
 - Home: index.md
-- Terraform:
-    - Basics:
-        - Terraform Intro: basic/intro.md
-    - Modules:
-        - Modules Intro: modules/intro.md
-        - Modules: modules/modules.md
-    - Providers:
-        - Providers Intro: providers/intro.md
-        - Providers: providers/providers.md
+- Learn:
+    - Basics: basic/intro.md
 
 
 - Contribute: CONTRIBUTING.md
