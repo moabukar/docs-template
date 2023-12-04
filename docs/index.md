@@ -8,7 +8,7 @@
 4. Setup GitHub pages
    1. Go to your repository settings
    2. Scroll down to GitHub Pages
-   3. Select `gh-pages branch & /docs folder` & save
+   3. Select `gh-pages branch` & `/root folder` & then save!
    4. A pipeline will run called `pages build and deployment` - once this is done, click the link provided
 5. Now, just make changes to your docs and add it in your mkdocs & index (optional)
 
