@@ -10,5 +10,5 @@
    2. Scroll down to GitHub Pages
    3. Select `gh-pages branch` & `/root folder` & then save!
    4. A pipeline will run called `pages build and deployment` - once this is done, click the link provided
-5. Now, just make changes to your docs and add it in your mkdocs & index (optional)
+5. Now repeat `step 3` by making changes to your docs and add it in your mkdocs & index (optional)
 
